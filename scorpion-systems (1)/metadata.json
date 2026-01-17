@@ -1,0 +1,9 @@
+
+{
+  "name": "Scorpion Systems",
+  "description": "A high-performance technology development hub specialized in advanced software engineering, AI integration, and systems architecture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
